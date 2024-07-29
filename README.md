@@ -21,7 +21,7 @@ All the notebooks were run on Google Colab:
 
 ## Models
 
-The models were implemented using Python, with the deep learning model built using TensorFlow/Keras.
+The models were implemented using Python, with the deep learning model built using TensorFlow/Keras. 
 
 **Deep Learning Model Architecture**:
 - Dense layers with ReLU activation.
