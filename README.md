@@ -21,7 +21,7 @@ All the notebooks were run on Google Colab:
 
 ## Models
 
-The models were implemented using Python, with the deep learning model built using TensorFlow/Keras. 
+The models were implemented using Python, with the deep learning model built using TensorFlow/Keras.
 
 **Deep Learning Model Architecture**:
 - Dense layers with ReLU activation.
@@ -57,9 +57,3 @@ The code for both models (XGBoost and deep learning) is provided in the notebook
 ## Contributing
 
 Feel free to explore the provided code and models to understand the process and results in detail. If you have any questions or suggestions, please don't hesitate to reach out.
-
-
-## Contributing
-
-Feel free to explore the provided code and models to understand the process and results in detail. If you have any questions or suggestions, please don't hesitate to reach out.
-
